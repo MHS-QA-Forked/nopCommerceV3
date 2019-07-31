@@ -1,0 +1,420 @@
+2019-07-27 07:25:46,358  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-27 07:25:54,433  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-27 07:26:06,387  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-27 07:26:06,389  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-27 07:26:07,428 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:07,429 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-27 07:26:07,432 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-27 07:26:07,432 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-27 07:26:07,971 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:07,972 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-27 07:26:07,972 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-27 07:26:07,972 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-27 07:26:07,979 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:07,979 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-27 07:26:07,980 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-27 07:26:07,980 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-27 07:26:07,990 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:07,991 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-27 07:26:07,991 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-27 07:26:07,991 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-27 07:26:08,030 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:08,031 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-27 07:26:08,031 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-27 07:26:08,031 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-27 07:26:08,060 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:08,060 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-27 07:26:08,061 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-27 07:26:08,062 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-27 07:26:08,113 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:08,113 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-27 07:26:08,114 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-27 07:26:08,115 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-27 07:26:08,142 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:08,143 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-27 07:26:08,144 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-27 07:26:08,144 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-27 07:26:08,148 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:08,149 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-27 07:26:08,151 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-27 07:26:08,152 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-27 07:26:08,157 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:08,158 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-27 07:26:08,158 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-27 07:26:08,159 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-27 07:26:08,174 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:26:08,175 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-27 07:26:08,175 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-27 07:26:08,177 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2019-07-27 07:27:41,788  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-27 07:27:44,940  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-27 07:27:56,501  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-27 07:27:56,503  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-27 07:27:57,414 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,415 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-27 07:27:57,427 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-27 07:27:57,428 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-27 07:27:57,753 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,754 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-27 07:27:57,754 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-27 07:27:57,755 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-27 07:27:57,758 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,758 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-27 07:27:57,759 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-27 07:27:57,759 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-27 07:27:57,766 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,767 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-27 07:27:57,767 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-27 07:27:57,767 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-27 07:27:57,780 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,780 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-27 07:27:57,781 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-27 07:27:57,781 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-27 07:27:57,797 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,797 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-27 07:27:57,798 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-27 07:27:57,798 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-27 07:27:57,825 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,827 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-27 07:27:57,828 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-27 07:27:57,828 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-27 07:27:57,839 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,840 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-27 07:27:57,841 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-27 07:27:57,842 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-27 07:27:57,846 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,847 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-27 07:27:57,848 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-27 07:27:57,848 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-27 07:27:57,855 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,856 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-27 07:27:57,857 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-27 07:27:57,859 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-27 07:27:57,873 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-27 07:27:57,874 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-27 07:27:57,874 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-27 07:27:57,875 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2019-07-30 06:46:23,930  INFO [TestNG-tests-1] nopCommerceV3:15 - ********** started TC_LoginTest_001 ****** 
+2019-07-30 06:46:26,594  INFO [TestNG-tests-1] nopCommerceV3:19 - ********* Provinding login details *********
+2019-07-30 06:46:30,817  INFO [TestNG-tests-1] nopCommerceV3:24 - ********** validating login *************
+2019-07-30 06:46:30,924  INFO [TestNG-tests-1] nopCommerceV3:30 - ********** Login Test Passed *************
+2019-07-30 06:46:30,927  INFO [TestNG-tests-1] nopCommerceV3:40 - ********** TC_LoginTest_001 is Finished *************
+2019-07-30 06:46:41,627  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-30 06:46:48,659  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-30 06:47:01,003  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-30 06:47:01,003  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-30 06:47:02,007 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,008 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-30 06:47:02,011 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-30 06:47:02,012 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-30 06:47:02,483 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,484 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-30 06:47:02,485 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-30 06:47:02,487 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-30 06:47:02,496 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,496 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-30 06:47:02,497 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-30 06:47:02,498 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-30 06:47:02,515 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,515 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-30 06:47:02,516 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-30 06:47:02,517 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-30 06:47:02,609 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,610 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-30 06:47:02,611 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-30 06:47:02,612 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-30 06:47:02,652 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,652 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-30 06:47:02,653 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-30 06:47:02,653 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-30 06:47:02,685 DEBUG [TestNG-tests-1] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-07-30 06:47:02,687 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,688 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-30 06:47:02,689 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-30 06:47:02,689 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-30 06:47:02,702 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,703 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-30 06:47:02,704 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-30 06:47:02,705 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-30 06:47:02,712 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,713 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-30 06:47:02,714 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-30 06:47:02,714 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-30 06:47:02,726 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,726 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-30 06:47:02,727 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-30 06:47:02,728 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-30 06:47:02,755 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 06:47:02,756 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-30 06:47:02,758 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-30 06:47:02,759 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2019-07-30 07:10:29,703  INFO [TestNG-tests-1] nopCommerceV3:15 - ********** started TC_LoginTest_001 ****** 
+2019-07-30 07:10:32,420  INFO [TestNG-tests-1] nopCommerceV3:19 - ********* Provinding login details *********
+2019-07-30 07:10:38,297  INFO [TestNG-tests-1] nopCommerceV3:24 - ********** validating login *************
+2019-07-30 07:10:38,328  INFO [TestNG-tests-1] nopCommerceV3:30 - ********** Login Test Passed *************
+2019-07-30 07:10:38,332  INFO [TestNG-tests-1] nopCommerceV3:40 - ********** TC_LoginTest_001 is Finished *************
+2019-07-30 07:10:50,909  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-30 07:10:54,481  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-30 07:11:06,396  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-30 07:11:06,396  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-30 07:11:07,237 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,239 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-30 07:11:07,241 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-30 07:11:07,244 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-30 07:11:07,543 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,543 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-30 07:11:07,544 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-30 07:11:07,546 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-30 07:11:07,551 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,552 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-30 07:11:07,554 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-30 07:11:07,560 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-30 07:11:07,584 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,586 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-30 07:11:07,587 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-30 07:11:07,588 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-30 07:11:07,606 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,608 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-30 07:11:07,609 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-30 07:11:07,609 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-30 07:11:07,679 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,681 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-30 07:11:07,682 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-30 07:11:07,682 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-30 07:11:07,711 DEBUG [TestNG-tests-1] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-07-30 07:11:07,712 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,713 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-30 07:11:07,713 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-30 07:11:07,716 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-30 07:11:07,722 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,751 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-30 07:11:07,752 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-30 07:11:07,752 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-30 07:11:07,761 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,763 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-30 07:11:07,766 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-30 07:11:07,767 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-30 07:11:07,778 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,779 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-30 07:11:07,781 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-30 07:11:07,782 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-30 07:11:07,807 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:11:07,810 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-30 07:11:07,811 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-30 07:11:07,812 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2019-07-30 07:15:57,350  INFO [TestNG-tests-1] nopCommerceV3:15 - ********** started TC_LoginTest_001 ****** 
+2019-07-30 07:15:59,793  INFO [TestNG-tests-1] nopCommerceV3:19 - ********* Provinding login details *********
+2019-07-30 07:16:04,774  INFO [TestNG-tests-1] nopCommerceV3:24 - ********** validating login *************
+2019-07-30 07:16:04,811  INFO [TestNG-tests-1] nopCommerceV3:30 - ********** Login Test Passed *************
+2019-07-30 07:16:04,813  INFO [TestNG-tests-1] nopCommerceV3:40 - ********** TC_LoginTest_001 is Finished *************
+2019-07-30 07:16:15,259  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-30 07:16:19,504  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-30 07:16:31,645  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-30 07:16:31,646  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-30 07:16:32,403 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,405 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-30 07:16:32,411 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-30 07:16:32,416 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-30 07:16:32,699 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,700 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-30 07:16:32,701 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-30 07:16:32,703 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-30 07:16:32,709 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,710 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-30 07:16:32,711 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-30 07:16:32,711 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-30 07:16:32,724 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,726 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-30 07:16:32,727 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-30 07:16:32,728 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-30 07:16:32,768 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,769 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-30 07:16:32,771 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-30 07:16:32,772 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-30 07:16:32,811 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,813 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-30 07:16:32,814 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-30 07:16:32,815 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-30 07:16:32,841 DEBUG [TestNG-tests-1] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-07-30 07:16:32,857 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,858 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-30 07:16:32,859 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-30 07:16:32,860 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-30 07:16:32,863 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,864 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-30 07:16:32,865 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-30 07:16:32,865 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-30 07:16:32,874 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,875 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-30 07:16:32,877 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-30 07:16:32,877 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-30 07:16:32,884 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,885 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-30 07:16:32,886 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-30 07:16:32,886 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-30 07:16:32,917 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-30 07:16:32,917 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-30 07:16:32,919 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-30 07:16:32,922 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2019-07-31 06:49:08,465  INFO [TestNG-tests-1] nopCommerceV3:15 - ********** started TC_LoginTest_001 ****** 
+2019-07-31 06:49:10,810  INFO [TestNG-tests-1] nopCommerceV3:19 - ********* Provinding login details *********
+2019-07-31 06:49:16,650  INFO [TestNG-tests-1] nopCommerceV3:24 - ********** validating login *************
+2019-07-31 06:49:16,703  INFO [TestNG-tests-1] nopCommerceV3:30 - ********** Login Test Passed *************
+2019-07-31 06:49:16,706  INFO [TestNG-tests-1] nopCommerceV3:40 - ********** TC_LoginTest_001 is Finished *************
+2019-07-31 06:49:26,637  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-31 06:49:34,345  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-31 06:49:46,668  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-31 06:49:46,668  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-31 06:49:47,607 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:47,608 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-31 06:49:47,612 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-31 06:49:47,616 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-31 06:49:48,158 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,160 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-31 06:49:48,162 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-31 06:49:48,164 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-31 06:49:48,170 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,171 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-31 06:49:48,174 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-31 06:49:48,175 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-31 06:49:48,199 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,201 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-31 06:49:48,202 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-31 06:49:48,202 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-31 06:49:48,328 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,330 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-31 06:49:48,345 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-31 06:49:48,346 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-31 06:49:48,369 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,372 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-31 06:49:48,374 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-31 06:49:48,375 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-31 06:49:48,447 DEBUG [TestNG-tests-1] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-07-31 06:49:48,448 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,449 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-31 06:49:48,452 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-31 06:49:48,455 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-31 06:49:48,468 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,469 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-31 06:49:48,470 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-31 06:49:48,472 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-31 06:49:48,479 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,485 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-31 06:49:48,488 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-31 06:49:48,489 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-31 06:49:48,497 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,501 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-31 06:49:48,502 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-31 06:49:48,502 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-31 06:49:48,544 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:49:48,545 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-31 06:49:48,546 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-31 06:49:48,546 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2019-07-31 06:55:53,127  INFO [TestNG-tests-1] nopCommerceV3:15 - ********** started TC_LoginTest_001 ****** 
+2019-07-31 06:56:28,614  INFO [TestNG-tests-1] nopCommerceV3:19 - ********* Provinding login details *********
+2019-07-31 06:56:44,603  INFO [TestNG-tests-1] nopCommerceV3:24 - ********** validating login *************
+2019-07-31 06:56:44,655  INFO [TestNG-tests-1] nopCommerceV3:30 - ********** Login Test Passed *************
+2019-07-31 06:56:44,657  INFO [TestNG-tests-1] nopCommerceV3:40 - ********** TC_LoginTest_001 is Finished *************
+2019-07-31 06:56:55,311  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-31 06:57:04,878  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-31 06:57:17,764  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-31 06:57:17,764  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-31 06:57:18,582 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:18,584 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-31 06:57:18,587 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-31 06:57:18,590 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-31 06:57:18,843 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:18,845 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-31 06:57:18,847 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-31 06:57:18,864 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-31 06:57:18,873 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:18,874 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-31 06:57:18,876 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-31 06:57:18,878 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-31 06:57:18,900 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:18,902 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-31 06:57:18,904 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-31 06:57:18,904 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-31 06:57:18,931 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:18,933 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-31 06:57:18,934 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-31 06:57:18,934 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-31 06:57:18,956 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:18,958 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-31 06:57:18,959 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-31 06:57:18,959 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-31 06:57:18,988 DEBUG [TestNG-tests-1] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-07-31 06:57:18,990 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:18,991 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-31 06:57:18,994 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-31 06:57:18,995 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-31 06:57:19,005 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:19,006 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-31 06:57:19,008 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-31 06:57:19,009 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-31 06:57:19,017 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:19,020 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-31 06:57:19,021 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-31 06:57:19,022 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-31 06:57:19,028 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:19,029 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-31 06:57:19,030 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-31 06:57:19,031 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-31 06:57:19,055 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:57:19,056 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-31 06:57:19,058 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-31 06:57:19,058 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2019-07-31 06:58:22,744  INFO [TestNG-tests-1] nopCommerceV3:15 - ********** started TC_LoginTest_001 ****** 
+2019-07-31 06:58:24,236  INFO [TestNG-tests-1] nopCommerceV3:19 - ********* Provinding login details *********
+2019-07-31 06:58:28,498  INFO [TestNG-tests-1] nopCommerceV3:24 - ********** validating login *************
+2019-07-31 06:58:28,517  INFO [TestNG-tests-1] nopCommerceV3:30 - ********** Login Test Passed *************
+2019-07-31 06:58:28,519  INFO [TestNG-tests-1] nopCommerceV3:40 - ********** TC_LoginTest_001 is Finished *************
+2019-07-31 06:58:39,026  INFO [TestNG-tests-1] nopCommerceV3:26 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-07-31 06:58:42,120  INFO [TestNG-tests-1] nopCommerceV3:34 - ***************  Providing customer details  *********** 
+2019-07-31 06:58:53,909  INFO [TestNG-tests-1] nopCommerceV3:59 - ***************  Customer added succesfully *********** 
+2019-07-31 06:58:53,909  INFO [TestNG-tests-1] nopCommerceV3:68 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-07-31 06:58:54,703 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:54,704 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2019-07-31 06:58:54,707 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2019-07-31 06:58:54,709 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2019-07-31 06:58:54,939 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:54,940 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2019-07-31 06:58:54,941 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2019-07-31 06:58:54,944 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2019-07-31 06:58:54,950 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:54,952 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2019-07-31 06:58:54,953 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2019-07-31 06:58:54,957 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2019-07-31 06:58:54,992 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:54,994 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2019-07-31 06:58:54,995 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2019-07-31 06:58:54,998 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2019-07-31 06:58:55,023 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:55,024 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2019-07-31 06:58:55,026 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2019-07-31 06:58:55,027 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2019-07-31 06:58:55,050 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:55,052 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2019-07-31 06:58:55,053 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2019-07-31 06:58:55,053 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2019-07-31 06:58:55,084 DEBUG [TestNG-tests-1] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-07-31 06:58:55,086 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:55,089 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2019-07-31 06:58:55,093 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2019-07-31 06:58:55,094 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2019-07-31 06:58:55,102 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:55,103 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2019-07-31 06:58:55,104 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2019-07-31 06:58:55,105 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2019-07-31 06:58:55,123 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:55,125 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2019-07-31 06:58:55,126 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2019-07-31 06:58:55,128 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2019-07-31 06:58:55,142 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:55,149 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2019-07-31 06:58:55,152 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2019-07-31 06:58:55,153 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2019-07-31 06:58:55,182 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-07-31 06:58:55,183 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2019-07-31 06:58:55,185 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2019-07-31 06:58:55,185 DEBUG [TestNG-tests-1] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/admin/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
